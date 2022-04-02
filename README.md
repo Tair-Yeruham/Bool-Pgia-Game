@@ -1,12 +1,14 @@
 # Bool Pgia Game
 
 ## Description and general background:
-Development of a window application of the Bool Pgia game
+Development of a window application of the Bool Pgia game.
+  - The app is divided into two: Logic and UI.
+  - 
 
 ### Start Window:
 * The app will first ask the user for the desired maximum number of guesses (number of lines).
   - The top button will function as a "counter". Each click on it will increase the number that appears on it by 1 (starting with 4 and a maximum of 10 and repeating).
-  - ![image](https://user-images.githubusercontent.com/76681385/161393701-a8f9da74-ee63-4155-9c76-2391f7d5e8d8.png)
+   ![image](https://user-images.githubusercontent.com/76681385/161393701-a8f9da74-ee63-4155-9c76-2391f7d5e8d8.png)
 
 ### The Board:
 * The initial state will be a board that will contain:
